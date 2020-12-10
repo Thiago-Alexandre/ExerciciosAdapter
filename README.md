@@ -37,4 +37,4 @@ Observação: a classe WmaPlay não pode ser modificada.
 
 #### Diagrama de Classes
 
-<img src="Diagrama Classes.PNG" heigth="600" width="600">
+<img src="Diagrama Classes.png" heigth="600" width="600">
